@@ -1,7 +1,7 @@
-GF Weather Platform
+Real Time Currency
 ======
 
-## What Is The  GF Weather Platform?
+## What Is The Real Time Currency?
 
 GF Weather Platform is a weather application, it is a good helper for our life, home travel necessary, simple interface, view the weather in the city.
 The main function:
@@ -42,7 +42,7 @@ The main function:
 ## Information
 mail: akgoaf@163.com
 <br>
-tell: +60133882386
+tell: syunbu@163.com
 
 
 ## License
@@ -51,5 +51,5 @@ tell: +60133882386
 
 ## Author
 
-[@RuizJames]
+[@LeeRichard]
 
