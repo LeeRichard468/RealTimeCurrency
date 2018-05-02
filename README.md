@@ -7,9 +7,9 @@ This is a real-time currency Converter application.
 <br>
 Free and Quick Converter calculates money quick and easy way to see live foreign exchange rates
 <br>
-- The interface is simple and elegant, so that your outbound travel without pressure.
+-The interface is simple and elegant, so that your outbound travel without pressure.
 <br>
-- Exchange intuitive, enter the amount, the results at a glance, convenient and quick.
+-Exchange intuitive, enter the amount, the results at a glance, convenient and quick.
 <br>
 
 <div align="center">
