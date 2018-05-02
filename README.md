@@ -3,26 +3,21 @@ Real Time Currency
 
 ## What Is The Real Time Currency?
 
-GF Weather Platform is a weather application, it is a good helper for our life, home travel necessary, simple interface, view the weather in the city.
-The main function:
+This is a real-time currency Converter application.
 <br>
--Current temperature
+Free and Quick Converter calculates money quick and easy way to see live foreign exchange rates
 <br>
--Current conditions
+- The interface is simple and elegant, so that your outbound travel without pressure.
 <br>
--Current humidity
-<br>
--Current dew point temperature
-<br>
--Current feels like temperature
+- Exchange intuitive, enter the amount, the results at a glance, convenient and quick.
 <br>
 
 <div align="center">
-<img width=250 src ="https://raw.githubusercontent.com/youngxiansen/GFWeatherPlatform/master/IMG/icon%233.png" />
+<img width=250 src ="https://raw.githubusercontent.com/LeeRichard468/RealTimeCurrency/master/Image/logo.jpg" />
 
 <br> <br>
 
-<h1> GFWeatherPlatform </h1> 
+<h1> Real Time Currency </h1> 
 </div>
 
 <br>
@@ -33,16 +28,19 @@ The main function:
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/youngxiansen/GFWeatherPlatform/master/IMG/IMG_8250.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/youngxiansen/GFWeatherPlatform/master/IMG/IMG_8251.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/LeeRichard468/RealTimeCurrency/master/Image/1.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/LeeRichard468/RealTimeCurrency/master/Image/2.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/LeeRichard468/RealTimeCurrency/master/Image/3.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/LeeRichard468/RealTimeCurrency/master/Image/4.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/LeeRichard468/RealTimeCurrency/master/Image/5.JPG"> </td>
 </tr>
 
 </table>
 
 ## Information
-mail: akgoaf@163.com
+mail: syunbu@163.com
 <br>
-tell: syunbu@163.com
+tell: +60133659285
 
 
 ## License
